@@ -1,0 +1,36 @@
+/* Write your code here. */
+.card-item {
+  border: 1px solid #d7dae6;
+  list-style: none;
+  margin-left: 20px;
+  margin-right: 50px;
+  padding: 10px;
+}
+
+.card-text {
+  color: #52606d;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.btn {
+  border: #cb8805;
+  outline: #cb8805;
+  background: none;
+  cursor: pointer;
+}
+
+.items {
+  display: flex;
+  justify-content: space-between;
+}
+
+.line {
+  background-color: #9aa5b1;
+}
+
+.answer {
+  color: #9aa5b1;
+  font-weight: 500;
+  font-size: 16px;
+}
